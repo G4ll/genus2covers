@@ -1,0 +1,15 @@
+The map phi_X is: x^2/(x^3 - 4)
+The map phi_W is: (-1/16*x^3 + 3/32*x^2 - 9/256*x)/(x^3 - 1)
+The set F_i(y), where i = 1 , has cardinality at least: 6
+The set F_i(y), where i = 2 , has cardinality at least: 18
+The set F_i(y), where i = 3 , has cardinality at least: 61
+The set F_i(y), where i = 4 , has cardinality at least: 208
+The set F_i(y), where i = 5 , has cardinality at least: 700
+The set F_i(y), where i = 6 , has cardinality at least: 2284
+The set F_i(y), where i = 7 , has cardinality at least: 7412
+The set F_i(y), where i = 8 , has cardinality at least: 23192
+The set F_i(y), where i = 9 , has cardinality at least: 68883
+
+[Interrupted]
+
+Total time: 75.200 seconds, Total memory usage: 96.16MB

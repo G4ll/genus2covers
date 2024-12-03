@@ -55,4 +55,3 @@ Order = 40320 = 2^7 * 3^2 * 5 * 7
 The maximal number of orbits is 2
 ****************************************
 We can ralize PGL(2, 5): true
-

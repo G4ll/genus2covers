@@ -86,4 +86,3 @@ for cc in ConjugacyClasses(H) do
 end for;
 
 "We can ralize PGL(2, 5):", #possibleGenerators ge 0;
-

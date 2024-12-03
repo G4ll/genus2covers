@@ -1,0 +1,23 @@
+The map phi_X is: x^2/(x^3 - 4)
+----------
+The curve Z has 2 connected components.
+----------
+The quotient computation that inevitably outputs gibberish:
+MatrixGroup<2, RationalField() |
+    ScalarMatrix(RationalField(), 2, -1) >
+Time: 0.090
+----------
+The genus of W1 is 0
+----------
+The quotient computation that inevitably outputs gibberish:
+MatrixGroup<4, RationalField() |
+    Matrix(RationalField(), 4, 4, [ -1, 0, 0, 0, 1, 1, 0, 0, 0, 0, -1, 0, 0, 0, 
+    0, -1 ]) >
+Time: 0.090
+----------
+false
+W2 is the Elliptic Curve defined by y^2 = x^3 + 6912 over Rational Field
+----------
+W2 has the j-invariant predicted by Kuhn: true
+
+Total time: 0.950 seconds, Total memory usage: 184.72MB
